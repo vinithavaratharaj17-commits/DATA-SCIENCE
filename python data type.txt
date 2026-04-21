@@ -1,0 +1,20 @@
+python data type
+
+1. int (whole numbers)
+ex: 10-3
+2. float (decimal numbers)
+ex:3.14-5.4
+3.complex(complex numbers)
+ex:2+3
+4.str string(text)
+ex: "hello"
+5.list(ordered  changeable collection)
+ex:(1,2,3)
+6.tuple(ordered unchangeable collection)
+ex:(1,2,3)
+7.set (unique values)
+ex:{1,2,3}
+8.dict (key value pairs)
+ex:{"name": }
+9.bool
+ex: true/flase
